@@ -1,0 +1,2 @@
+Hello from my first GIT repository.
+line 2: Say something.
