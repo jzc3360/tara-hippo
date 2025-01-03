@@ -1,2 +1,3 @@
 Hello from my first GIT repository.
 line 2: Say something.
+line 3: Eat something.
