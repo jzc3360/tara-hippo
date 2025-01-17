@@ -1,2 +1,2 @@
 # tara-hippo
-GIT FUn Repo
+GIT not so much Fun Repo
